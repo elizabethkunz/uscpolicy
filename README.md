@@ -2,8 +2,8 @@
 
 Campus Access
 Issued: January 14, 2013
-Last Revised: April 4, 2024
-Last Reviewed: April 4, 2024
+Last Revised: January 14, 2013
+Last Reviewed: November 5, 2021
 
 1. Policy Purpose
 Establish appropriate parameters for access to University of Southern California (“USC”) campuses and other university properties to help ensure the safety of students, faculty, staff, and guests.
@@ -17,11 +17,9 @@ N/A
 4. Policy Details 
 As a private institution of higher education, USC reserves the right to restrict or prohibit access to university property; specific examples as follows:
 
-Access to the University Park Campus (UPC) is restricted to students, faculty, staff, and registered guests between 9 p.m. and 6 a.m. daily. Within a USC campus, certain buildings or locations may be restricted to certain individuals associated with the university or their guests.
-USC may close the UPC campus perimeter or further restrict access to certain areas of the campus and/or campus buildings or other university property, with or without notice, in the event of an unusual occurrence or emergency that poses a threat to the safety of persons or property on the campus.
-USC may prohibit access to the campus or specified university property by any individual who engages in conduct that violates university policies (e.g., the Violence-Free Campus and Workplace policy).
+USC may close the campus perimeter or restrict access to certain areas of the campus and/or campus buildings or other university property, with or without notice, in the event of an unusual occurrence or emergency that poses a threat to the safety of persons on the campus.
+USC may prohibit access to the campus or specified university property by any individual who engages in conduct that violates university policies (e.g., the Violence-Free Campus policy).
 USC may establish special health-related requirements for access to the campus or specified buildings, or university-sponsored events or activities, to support the health and safety of the university community. These requirements may be equal to or exceed guidelines issued by public health authorities.
-As described in the Political Activities Policy, the university, in exercising its responsibility to provide and maintain an atmosphere of free inquiry and expression, may establish reasonable time, place, and manner restrictions (when USC facilities are permitted to be used for political activities) for the purpose of avoiding disruption to or substantial interference with its regular and essential operations and activities.
 USC reserves the right to prohibit certain activities on university property, specifically:
 
 Unauthorized Food Vendors: food may not be sold or distributed by unauthorized vendors on university property (e.g., food carts pushed onto campus).
@@ -41,7 +39,7 @@ University Park Campus – After-Hours Visitor Registration Form: https://visito
 7. Responsibilities 
 POSITION or OFFICE	RESPONSIBILITIES
 Students, Faculty, Staff and Visitors	Required to comply with this policy; violations should be reported to DPS.
-Department of Public Safety (DPS)	Management and enforcement of this policy in coordination with USC schools and departments.
+Department of Public Safety	Management and enforcement of this policy in coordination with USC schools and departments.
 8. Related Information 
 USC DPS: https://dps.usc.edu
 University Park Campus Visitors: https://visitor.usc.edu/
